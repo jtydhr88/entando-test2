@@ -1,0 +1,6 @@
+code: dw-choose-language-widget
+titles:
+  en: Choose Language DW
+  it: Scegli lingua
+group: free
+customUiPath: choose-language-widget.ftl

@@ -1,0 +1,12 @@
+code: user-management
+description: User management
+
+components:
+  widgets:
+      - ui/widgets/menus/menu-widgets/account-widget-descriptor.yaml
+      - ui/widgets/menus/menu-widgets/choose-language-widget-descriptor.yaml
+      - ui/widgets/menus/menu-widgets/contact-widget-descriptor.yaml
+      - ui/widgets/menus/menu-widgets/notification-widget-descriptor.yaml
+
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

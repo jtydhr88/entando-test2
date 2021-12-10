@@ -1,0 +1,6 @@
+code: dw-account-widget
+titles:
+  en: Account Menu widget
+  it: Account Menu widget
+group: free
+customUiPath: account-widget.ftl

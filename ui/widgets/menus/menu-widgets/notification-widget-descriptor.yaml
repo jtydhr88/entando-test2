@@ -1,0 +1,6 @@
+code: dw-notification-widget
+titles:
+  en: Notifications
+  it: Notfiche
+group: free
+customUiPath: notification-widget.ftl

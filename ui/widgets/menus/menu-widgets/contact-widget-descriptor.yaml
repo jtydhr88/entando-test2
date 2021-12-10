@@ -1,0 +1,6 @@
+code: dw-contact-widget
+titles:
+  en: Contacts Menu
+  it: Menu Contatti
+group: free
+customUiPath: contact-widget.ftl
